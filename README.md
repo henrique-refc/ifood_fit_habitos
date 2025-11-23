@@ -18,6 +18,7 @@ Recompensa: descontos em itens “não fitness” ao alcançar o objetivo defini
 Esse modelo fortalece a consistência e facilita a adoção de hábitos saudáveis de forma prazerosa e sustentável.
 
 Funcionalidades Principais
+
 🎯 Definição e Acompanhamento de Metas de Hábitos Saudáveis
 
 O usuário define metas de dias consecutivos com alimentação saudável (ex.: 3, 6, 12, 20 e 30 dias).
